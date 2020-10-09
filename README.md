@@ -1,0 +1,2 @@
+Analyzing a movie dataset is as exciting as it sounds. There are multiple parameters that we need to keep in mind when filtering the movie(s) from the data set and it gets lot more fun to work when you have to implement most of the data wrangling logics. This project showcases a structured approach for deriving the expected result.
+This project is a complete package for implementing the lists, disctionaries, functions, loops, file I/O operations and variable declarations. This project will be a quick revision of basic programming in Python.
